@@ -12,12 +12,7 @@ spring:
             max-request-size: 100MB
 
 # 阿里云OSS配置
-aliyun:
-    oss:
-        bucketName: web-tlias-ppx
-        endpoint: https://oss-cn-beijing.aliyuncs.com
-        accessKeyId: LTAI5tCf7cQfsRv6uaNaXonk
-        accessKeySecret: LmmH06TCN8GlxCUwlFaFRDbhpuya6J
+
 
 # MyBatis配置
 mybatis:
